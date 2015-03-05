@@ -1,0 +1,19 @@
+{
+  "name": "resource-shim",
+  "version": "1.0.0",
+  "description": "resource shim for node environments without the resource loader apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmeck/resource-shim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmeck/resource-shim/issues"
+  },
+  "homepage": "https://github.com/bmeck/resource-shim"
+}
